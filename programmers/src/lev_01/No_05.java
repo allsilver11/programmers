@@ -18,5 +18,5 @@ public class No_05 {
 	        }
 	        Collections.sort(answer);
 	        return answer;
-	    }
+	    } 
 }
