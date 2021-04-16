@@ -14,6 +14,6 @@ public class No_03 {
                break;
            }
        }
-       return answer;
+       return answer; 
    }
 }
